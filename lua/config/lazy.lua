@@ -20,7 +20,7 @@ require("lazy").setup({
     { import = "lazyvim.plugins.extras.lang.go" },
     { import = "lazyvim.plugins.extras.lang.nix" },
     { import = "lazyvim.plugins.extras.lang.sql" },
-    { import = "lazyvim.plugins.extras.uti.gitgui" },
+    { import = "lazyvim.plugins.extras.util.gitui" },
     -- import/override with your plugins
     { import = "plugins" },
   },
